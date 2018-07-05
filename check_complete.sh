@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Check system Raspberry Pi
+# Deps - install ethtool with ($ sudo apt-get install ethtool)
 
 # Declarate Viriables
 VAR='progressive'
