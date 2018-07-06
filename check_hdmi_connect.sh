@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#-------------------------------------------#
+#-- Check HDMI Raspberry Pi ----------------#
+#-- by: @cryptobr - on Telegram ------------#
+#-------------------------------------------#
+
 VAR='progressive'
 CMD=$(tvservice -s)
 
