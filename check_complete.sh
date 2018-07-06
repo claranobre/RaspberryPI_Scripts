@@ -1,6 +1,9 @@
 #!/bin/bash
+#-------------------------------------------#
+#-- Check system Raspberry Pi --------------#
+#-- by: @cryptobr - on Telegram ------------#
+#-------------------------------------------#
 
-# Check system Raspberry Pi
 # Deps - install ethtool with ($ sudo apt-get install ethtool)
 
 # Declarate Viriables
