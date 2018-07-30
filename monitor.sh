@@ -1,4 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
+# Requirements: 
+# $ sudo apt-get install tshark speedometer hotp -y
 
 name=monitor
 
