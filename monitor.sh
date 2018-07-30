@@ -1,6 +1,6 @@
 #!/bin/bash
 # Requirements: 
-# $ sudo apt-get install tshark speedometer hotp -y
+# $ sudo apt-get install tshark speedometer htop tmux -y
 
 name=monitor
 
