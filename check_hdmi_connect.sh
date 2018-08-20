@@ -13,4 +13,6 @@ then
 	echo "HDMI is on"
 else
 	echo "HDMI is off"
+	# For power on TV uncomment line bellow
+	# tvservice -p
 fi
