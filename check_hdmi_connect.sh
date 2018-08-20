@@ -15,4 +15,6 @@ else
 	echo "HDMI is off"
 	# For power on TV uncomment line bellow
 	# tvservice -p
+	# Case use Screenly service uncomment line bellow too
+	# systemctl restart screenly\*
 fi
