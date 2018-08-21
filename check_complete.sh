@@ -25,5 +25,9 @@ then
 	echo "Cabe HDMI is on"
 else
 	echo "Cabe HDMI is off"
+	# For power on TV uncomment line bellow
+	# tvservice -p
+	# Case use Screenly service uncomment line bellow too
+	# systemctl restart screenly\*
 fi
 echo "-------------------------"
